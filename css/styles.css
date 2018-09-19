@@ -1,2 +1,13 @@
-h1 {color: #0000ff;
+{
+    box-sizing: border-box;
+}
+
+h1 {color: #5a8a5f;
+}
+.midbox {
+    border: 2px solid #000;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
